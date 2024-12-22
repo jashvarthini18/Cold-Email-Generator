@@ -34,8 +34,8 @@ Ensure you have the following installed:
 1. Clone the Repository:
 
    ```bash
-   git clone https://github.com/your-username/cold-email-generator.git
-   cd cold-email-generator
+   git clone https://github.com/jashvarthini18/Cold-Email-Generator.git
+   cd Cold-Email-Generator
    ```
 
 2. Install Dependencies:
